@@ -1,5 +1,5 @@
-# Talks and Experiments
-Hello fellows! This repo contains useful material related to my talks or anything I wanted to explore in my free time.
+# Talks
+Hello fellows! This repo contains useful material related to my talks.
 
 Enjoy!
 
@@ -13,6 +13,3 @@ Enjoy!
 <br>During this session, titled <b>"Exploring Multi-Agent Systems with AutoGen"</b>, I introduced the concept of collaborative AI agents and their applications in solving complex problems. 
 <br>I also showcased "AutoGen", an open-source framework by Microsoft framework that simplifies the creation and coordination of multiple agents.
 <br>Finally, I walked through three practical demos: agent-to-agent conversation, a simulated health service onboarding system, and an autonomous Bitcoin market analysis. 
-
-# Experiments
-Coming soon..

@@ -1,0 +1,30 @@
+[project]
+name = "image-semantic-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.11.0",
+    "bertopic>=0.17.3",
+    "bitsandbytes>=0.48.2",
+    "faiss-cpu>=1.12.0",
+    "fastapi>=0.119.0",
+    "hdbscan>=0.8.40",
+    "langchain-community>=0.3.31",
+    "matplotlib>=3.10.7",
+    "openai>=2.32.0",
+    "optuna>=4.6.0",
+    "python-dotenv>=1.0",
+    "python-multipart>=0.0.20",
+    "send2trash>=1.8.3",
+    "sentence-transformers>=5.1.1",
+    "streamlit>=1.50.0",
+    "umap-learn>=0.5.9.post2",
+    "uvicorn[standard]>=0.37.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]

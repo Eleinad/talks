@@ -1,0 +1,10 @@
+.venv
+faiss/*
+bertTopic/*
+clip_model/*
+__pycache__/*
+*.pyc
+.pytest_cache/
+*.db
+.vscode
+.env
